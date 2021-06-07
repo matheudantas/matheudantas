@@ -1,9 +1,9 @@
 <h1 align="center">Olá, sou o Matheus Dantas</h1>
 <h3 align="center">Web Full Stack Developer Jr.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheudantas&label=Profile%20views&color=0e75b6&style=flat" alt="matheudantas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheudantas&label=Profile%20views&color=0e75b6&style=flat&" alt="matheudantas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheudantas" alt="matheudantas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheudantas&row=2&column=3" alt="matheudantas" /></a> </p>
 
 - 🔭 Atualmente estudo na [Kenzie Academy Brasil](https://kenzie.com.br/)
 
