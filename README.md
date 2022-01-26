@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheudantas&row=2&column=3&theme=monokai" alt="matheudantas" /></a> </p>
 
-- 🔭 Atualmente trabalho na [Gedanken](https://www.linkedin.com/company/gedanken-consulting-technologies/mycompany/)
+- 🔭 Atualmente trabalho na [Gedanken](https://gedanken.com.br/)
 
 - 🌱 Tenho me aprimorado recentemente em: **Flask, Python, PostgreSQL**
 
