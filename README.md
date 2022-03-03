@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalho na [Gedanken](https://gedanken.com.br/)
 
-- 🌱 Tenho me aprimorado recentemente em: **Flask, Python, PostgreSQL**
+- 🌱 Tenho me aprimorado recentemente em: **Python (Flask, Django), PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
