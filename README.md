@@ -1,8 +1,6 @@
 <h1 align="center">Olá, sou o Matheus Dantas</h1>
 <h3 align="center">Web Full Stack Developer Jr.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheudantas&label=Profile%20views&color=0e75b6&style=flat&" alt="matheudantas" /> </p>
-
 - 🔭 Atualmente trabalho na [Gedanken](https://gedanken.com.br/)
 
 - 🌱 Tenho me aprimorado recentemente em: **Python (Flask, Django), PostgreSQL**
