@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o Matheus Dantas</h1>
-<h3 align="center">Web Full Stack Developer Jr.</h3>
+<h3 align="center">Web Full Stack Developer</h3>
 
 - 🔭 Atualmente trabalho na [Gedanken](https://gedanken.com.br/)
 
