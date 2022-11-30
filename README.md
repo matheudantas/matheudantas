@@ -21,7 +21,8 @@
 
 <div align="center">
     
-    ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheudantas&count_private=true&show_icons=true&theme=merko&hide=contribs,issues)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheudantas&hide=javascript,html,css&layout=compact&theme=merko)](https://github.com/matheudantas/github-readme-stats)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheudantas&count_private=true&show_icons=true&theme=merko&hide=contribs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheudantas&hide=javascript,html,css&layout=compact&theme=merko)](https://github.com/matheudantas/github-readme-stats)
  
 </div>
